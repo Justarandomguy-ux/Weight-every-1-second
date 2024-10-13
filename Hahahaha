@@ -3,7 +3,7 @@ local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
 
 -- Hardcoded key
-local validKey = "Marshmallow" -- Replace this with your actual key
+local validKey = "Keyisworking" -- Replace this with your actual key
 
 -- Create ScreenGui
 local screenGui = Instance.new("ScreenGui")
